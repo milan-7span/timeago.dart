@@ -1,4 +1,5 @@
 name: timeago
+publish_to: "none"
 description: >
   A library useful for creating fuzzy timestamps. (e.g. "15 minutes ago")
 version: 3.7.0
